@@ -21,11 +21,11 @@ function Contact() {
                 <IconPhone /> &nbsp; (123) 456-7869
               </a>
               <a href="/">
-                <IconMail /> &nbsp; carrental@carmail.com
+                <IconMail /> &nbsp; arjavenkatavamsi@gmail.com
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; Belgrade, Serbia
+                &nbsp; Hyderabad, India
               </a>
             </div>
             <div className="contact-div__form">

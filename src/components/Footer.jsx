@@ -16,17 +16,17 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <IconPhoneCall /> &nbsp; (123) -456-789
+                  <IconPhoneCall /> &nbsp; (+123) 45678910
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                arjavenkatavamsi@gmail.com"
                 >
                   <IconMail />
-                  &nbsp; carrental@gmail.com
+                  &nbsp; arjavenkatavamsi@gmail.com
                 </a>
               </li>
 
@@ -35,9 +35,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                  href="https://github.com/vamsiarja"
                 >
-                  Design by XpeedStudio
+                  Copyright@Arja venkata vamsi
                 </a>
               </li>
             </ul>
@@ -45,7 +45,7 @@ function Footer() {
             <ul className="footer-content__2">
               <li>Company</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home">Hyderabad, India</a>
               </li>
               <li>
                 <a href="#home">Careers</a>
